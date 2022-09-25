@@ -1,0 +1,8 @@
+metric,value
+Cohen's kappa Coefficient (κ),0.6274706867671691
+F1 Score,0.7965635738831616
+Accuracy,0.8148263997497655
+Precision,0.8398550724637681
+Recall,0.757516339869281
+confusion_matrix,"[[1446  221]
+ [ 371 1159]]"
